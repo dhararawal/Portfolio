@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Modelling on Dhara Rawal</title>
+    <link>https://dhararawal.github.io/Portfolio/tags/statistical-modelling/</link>
+    <description>Recent content in Statistical Modelling on Dhara Rawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jun 2023 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://dhararawal.github.io/Portfolio/tags/statistical-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Statistical Modelling and Analysis for Alzheimer’s Disease</title>
+      <link>https://dhararawal.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Mon, 19 Jun 2023 11:00:59 -0400</pubDate>
+      <guid>https://dhararawal.github.io/Portfolio/post/project-3/</guid>
+      <description>Clustering Algorithms:&#xA;Implemented a variety of clustering algorithms such as K-Means, Hierarchical clustering and KNN. Hierarchical clustering revealed distinct groupings, suggesting potential subgroups within the data Logistic Regression:&#xA;Conducted logistic regression analysis, exploring associations with Alzheimer&amp;rsquo;s group. Integrated eTIV into the final model, demonstrating good fit and predictive accuracy. Feature Selection using PCA:&#xA;Applied principal component analysis to reduce dimensionality. Retained 5 principal components, explaining 90% of the dataset&amp;rsquo;s variability.</description>
+    </item>
+  </channel>
+</rss>

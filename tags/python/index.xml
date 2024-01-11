@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Dhara Rawal</title>
+    <link>https://dhararawal.github.io/Portfolio/tags/python/</link>
+    <description>Recent content in Python on Dhara Rawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Jan 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://dhararawal.github.io/Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Random Forest Model Titanic Survival Prediction Kaggle</title>
+      <link>https://dhararawal.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Thu, 11 Jan 2024 11:00:59 -0400</pubDate>
+      <guid>https://dhararawal.github.io/Portfolio/post/project-4/</guid>
+      <description>Predictive Model Built in Python:&#xA;Implemented a random forest model to predict passenger survival on the Titanic Achieved a 79% accuracy rate by Kaggle&amp;rsquo;s check Data Cleaning and Scaling:&#xA;Effectively used one hot encoding to recode variables ready for analysis Effectly dealt with missing variables via imputing the mean Packages used:&#xA;Used packages such as NumPy,Pandas, Seaborn and Matplotlib Coded using JupyterNotebook Link to GitHub Repository</description>
+    </item>
+  </channel>
+</rss>

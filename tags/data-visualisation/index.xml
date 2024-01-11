@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualisation on Dhara Rawal</title>
+    <link>https://dhararawal.github.io/Portfolio/tags/data-visualisation/</link>
+    <description>Recent content in Data Visualisation on Dhara Rawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Aug 2023 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://dhararawal.github.io/Portfolio/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Predictive Modelling of Employee Attrition: Analysing Key Factors Influencing Attrition to Develop Targeted Retention Strategies</title>
+      <link>https://dhararawal.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Thu, 10 Aug 2023 11:00:59 -0400</pubDate>
+      <guid>https://dhararawal.github.io/Portfolio/post/project-2/</guid>
+      <description>Advanced Model Evaluation:&#xA;Implemented logistic regression, random forests, and support vector machine models for attrition prediction. Conducted rigorous model evaluation using ROC curves and area under the curve (AUC) metrics. Employed nested cross-validation to fine-tune hyperparameters and ensure robust model performance. Interactive Shiny Dashboard:&#xA;Developed an interactive Shiny dashboard for visualizing predicted attrition in real-time. Integrated dynamic data tables allowing users to filter data by department and explore employees predicted to be in attrition group 1.</description>
+    </item>
+    <item>
+      <title>Project 3: Statistical Modelling and Analysis for Alzheimer’s Disease</title>
+      <link>https://dhararawal.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Mon, 19 Jun 2023 11:00:59 -0400</pubDate>
+      <guid>https://dhararawal.github.io/Portfolio/post/project-3/</guid>
+      <description>Clustering Algorithms:&#xA;Implemented a variety of clustering algorithms such as K-Means, Hierarchical clustering and KNN. Hierarchical clustering revealed distinct groupings, suggesting potential subgroups within the data Logistic Regression:&#xA;Conducted logistic regression analysis, exploring associations with Alzheimer&amp;rsquo;s group. Integrated eTIV into the final model, demonstrating good fit and predictive accuracy. Feature Selection using PCA:&#xA;Applied principal component analysis to reduce dimensionality. Retained 5 principal components, explaining 90% of the dataset&amp;rsquo;s variability.</description>
+    </item>
+    <item>
+      <title>Project 1: Analysis of Police Use of Force Incidents in Dallas, Texas, USA</title>
+      <link>https://dhararawal.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Mon, 24 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>https://dhararawal.github.io/Portfolio/post/project-1/</guid>
+      <description>Comprehensive Data Analysis: Conducted a thorough analysis of Police Use of Force incidents in Dallas, Texas, utilizing various data visualization techniques in R to provide a comprehensive understanding of the patterns and trends associated with these incidents.&#xA;Diverse Visualization Approaches: Employed a range of visualization methods, including traditional plots, interactive plots, and scatter plots, to present the data from multiple perspectives, ensuring a nuanced and insightful exploration of the information.</description>
+    </item>
+  </channel>
+</rss>
